@@ -1,4 +1,4 @@
-[
+{ "cardInfo": [
   {
     "id": 1,
     "name": "Patternfly",
@@ -90,3 +90,4 @@
     "name": "j"
   }
 ]
+}
