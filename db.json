@@ -62,29 +62,28 @@
     },
     {
       "id": 10,
-      "name": "Crypto",
-      "description": "For providing flexible endpoints to sign and verify exchanges using the Signature Service of the Java Cryptographic Extension.",
-      "icon": "saxonIcon"
-    },
-    {
-      "id": 11,
       "name": "a",
       "description": "description for a"
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "b",
       "description": "description for b"
     },
     {
-      "id": 13,
+      "id": 12,
       "name": "c",
       "description": "description for c"
     },
     {
-      "id": 14,
+      "id": 13,
       "name": "d",
       "description": "description for d"
+    },
+    {
+      "id": 14,
+      "name": "e",
+      "description": "description for e"
     }
   ]
 }
