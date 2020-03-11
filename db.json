@@ -59,6 +59,32 @@
       "name": "SWAGGER",
       "description": "Expose REST services and their APIs using Swagger specification.",
       "icon": "swaggerIcon"
+    },
+    {
+      "id": 10,
+      "name": "Crypto",
+      "description": "For providing flexible endpoints to sign and verify exchanges using the Signature Service of the Java Cryptographic Extension.",
+      "icon": "saxonIcon"
+    },
+    {
+      "id": 11,
+      "name": "a",
+      "description": "description for a"
+    },
+    {
+      "id": 12,
+      "name": "b",
+      "description": "description for b"
+    },
+    {
+      "id": 13,
+      "name": "c",
+      "description": "description for c"
+    },
+    {
+      "id": 14,
+      "name": "d",
+      "description": "description for d"
     }
   ]
 }
