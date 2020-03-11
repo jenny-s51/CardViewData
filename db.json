@@ -59,31 +59,6 @@
       "name": "SWAGGER",
       "description": "Expose REST services and their APIs using Swagger specification.",
       "icon": "swaggerIcon"
-    },
-    {
-      "id": 10,
-      "name": "a",
-      "description": "description for a"
-    },
-    {
-      "id": 11,
-      "name": "b",
-      "description": "description for b"
-    },
-    {
-      "id": 12,
-      "name": "c",
-      "description": "description for c"
-    },
-    {
-      "id": 13,
-      "name": "d",
-      "description": "description for d"
-    },
-    {
-      "id": 14,
-      "name": "e",
-      "description": "description for e"
     }
   ]
 }
